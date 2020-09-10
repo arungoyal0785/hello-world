@@ -1,0 +1,25 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "test hello worlld app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arungoyal0785/hello-world.git"
+  },
+  "keywords": [
+    "hello-world"
+  ],
+  "author": "arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arungoyal0785/hello-world/issues"
+  },
+  "homepage": "https://github.com/arungoyal0785/hello-world#readme"
+}
